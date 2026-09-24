@@ -53,4 +53,4 @@ Open `index.html` in any modern web browser (Chrome, Firefox, Edge).
 
 ## Live Link
 
-[View on GitHub Pages](https://abdullahrana11.github.io/portfolio/)
+[View on GitHub Pages](https://abdullahrana11.github.io/Lab-3-Portfolio/)
